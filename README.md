@@ -1,3 +1,2 @@
 # hello-world
-this is my first probably useless repo...?
-i'm currently learning C# and so
+im just vibin i have no idea whats going on lmao
